@@ -8,3 +8,4 @@ logs/**
 **.faiss
 
 **/__pycache__/**
+.idea
